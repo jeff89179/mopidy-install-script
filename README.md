@@ -1,0 +1,1 @@
+# mopidy-install-script
